@@ -48,7 +48,6 @@ In body:
     phone:req.body.phone
     password:req.body.password
 }
-phone:req.body.phone
 https://airtel-user-api.onrender.com/api/auth/login
 >>>This gives a response with a token key
 >>>use that token in the header
